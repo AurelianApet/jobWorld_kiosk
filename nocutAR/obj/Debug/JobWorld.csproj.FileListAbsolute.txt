@@ -1,0 +1,10 @@
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\bin\DataAccess.dll
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\bin\DataAccess.pdb
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\obj\Debug\JobWorld.csprojResolveAssemblyReference.cache
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\obj\Debug\JobWorld.csproj.GenerateResource.Cache
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\bin\jobworld.dll.config
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\bin\jobworld.dll
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\bin\jobworld.pdb
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\obj\Debug\jobworld.Properties.Resources.resources
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\obj\Debug\jobworld.dll
+F:\Work\web\asp.net\jobworld\jobworld\nocutAR\obj\Debug\jobworld.pdb
